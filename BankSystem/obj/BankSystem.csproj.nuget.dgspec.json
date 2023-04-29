@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\BankSystem\\BankSystem.csproj": {}
+    "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\8.BankSystem\\BankSystem\\BankSystem.csproj": {}
   },
   "projects": {
-    "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\BankSystem\\BankSystem.csproj": {
+    "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\8.BankSystem\\BankSystem\\BankSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\BankSystem\\BankSystem.csproj",
+        "projectUniqueName": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\8.BankSystem\\BankSystem\\BankSystem.csproj",
         "projectName": "BankSystem",
-        "projectPath": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\BankSystem\\BankSystem.csproj",
+        "projectPath": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\8.BankSystem\\BankSystem\\BankSystem.csproj",
         "packagesPath": "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\BankSystem\\obj\\",
+        "outputPath": "C:\\Ismayil\\PROJECTS\\StepIT\\4.C#\\8.Interface\\8.BankSystem\\BankSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI NOTEBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
